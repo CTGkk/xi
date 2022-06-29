@@ -1,0 +1,49 @@
+*{box-sizing: border-box;}
+p,h1,h2,h3,h4,h5,h6,ul,ol,dl,li,form,table,a,div,img,body{
+	margin:0;
+	padding:0;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.clearfix:before,.clearfix:after{display: block; content: ""}
+.clearfix:after{clear:both;}
+li{
+	list-style: none;
+}
+body{
+	background: url("../../img/bei.jpg");
+	background-size:100%;
+	position: relative;
+	height: 700px;
+	padding-top: 20px;
+}
+
+header ul{
+	width: 90%;
+	display: flex;
+	margin: 20px 15%;
+	float:left;
+ 
+}
+header ul li{
+	width: 10%;
+	align: center;
+}
+header ul li a{
+	color: #fff;
+	display: block;
+	background-color: rgba(0,0,0,0.4);
+	border: 1px solid gray;
+	text-align: center;
+	line-height: 45px;
+	font-size: 14px;
+	border-radius: 5px;
+}
+header ul li a:hover{
+	color: #bc2e22;
+	background-color: rgba(0,0,0,0.6);
+}
