@@ -1,0 +1,43 @@
+#tou  h2{
+	color: #b2652d;
+	line-height: 60px;
+	text-align: center;
+	font-size: 34px;
+	font-family: "幼圆";
+	width: 15%;
+	margin: 10px auto;
+	letter-spacing: 2px;
+	text-shadow: 4px 3px 3px #b7a696;
+}
+main .jue{
+	font-family: "楷体";
+	color:#E08A48;
+	float: left;
+	margin: auto 200px; 
+		
+}
+main .jue h3{
+	margin: auto 10px;
+	font-size: 40px;
+}
+main .chou {
+	clear: both;
+	float: left;
+	margin: auto 200px; 
+	font-family: "宋体";
+	color:#E08A48;
+}
+main .chou p img{
+	float: right;
+}
+main .zhu{
+	clear: both;
+	float: left;
+	margin: auto 200px;
+	font-family: "宋体";
+	color:#E08A48;
+}
+main .zhu p img{
+	float: right;
+
+}

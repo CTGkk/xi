@@ -1,0 +1,35 @@
+#tou h2{
+	color: #b2652d;
+	line-height: 60px;
+	text-align: center;
+	font-size: 34px;
+	font-family: "幼圆";
+	width: 15%;
+	margin: 10px auto;
+	letter-spacing: 2px;
+	text-shadow: 4px 3px 3px #b7a696;
+}
+
+main{
+	padding-bottom: 40px;
+}
+main h3{
+	color: #923c3b;
+	letter-spacing: 5px;
+	text-align: center;
+	line-height: 60px
+}
+main table{
+	width: 50%;
+	float: left;
+	border-collapse: collapse;
+	margin: 60px 400px;
+	text-align: center;
+}
+main td,main tr{
+	line-height: 36px;
+}
+main img{
+	margin-left: 30px;
+}
+
